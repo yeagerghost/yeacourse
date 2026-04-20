@@ -8,6 +8,7 @@
 # Or with options:
 #   wget -qO- ... | sudo bash -s -- --skip-rebuild
 #
+# Adding another comment
 
 set -e
 
